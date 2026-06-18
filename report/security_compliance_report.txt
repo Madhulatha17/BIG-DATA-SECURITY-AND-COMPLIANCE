@@ -1,4 +1,4 @@
-BIG DATA SECURITY & COMPLIANCE REPORT
+# BIG DATA SECURITY & COMPLIANCE REPORT
 
 1. Introduction
 This project defines a secure framework for handling big data with GDPR and HIPAA compliance.
