@@ -1,0 +1,18 @@
+DATA FLOW ARCHITECTURE
+
+Data Source
+   ↓
+Data Ingestion Layer
+   ↓
+Encryption Layer (AES-256 / TLS)
+   ↓
+Secure Storage Layer
+   ↓
+Processing Layer
+   ↓
+Access Control Layer (RBAC + MFA)
+   ↓
+User Applications
+
+   ↓
+Audit Logging & Monitoring System
