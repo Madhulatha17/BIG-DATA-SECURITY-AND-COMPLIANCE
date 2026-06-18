@@ -1,0 +1,33 @@
+BIG DATA SECURITY & COMPLIANCE REPORT
+
+1. Introduction
+This project defines a secure framework for handling big data with GDPR and HIPAA compliance.
+
+2. Security Measures
+- AES-256 encryption
+- TLS secure communication
+- Role-Based Access Control (RBAC)
+- Multi-Factor Authentication (MFA)
+
+3. Data Privacy
+- Data anonymization
+- Data masking
+- Least privilege access
+
+4. GDPR Compliance
+- User data access rights
+- Right to deletion
+- Data minimization rules
+
+5. HIPAA Compliance
+- Secure handling of sensitive health data
+- Strict access control
+- Audit logging
+
+6. Monitoring
+- Real-time tracking
+- Security alerts
+- Audit trail maintenance
+
+7. Conclusion
+The system ensures secure, compliant, and scalable big data handling.
